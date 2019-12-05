@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monetizing/static/css/main.83f556cc.chunk.css",
-    "main.js": "/monetizing/static/js/main.52f9a1e6.chunk.js",
-    "main.js.map": "/monetizing/static/js/main.52f9a1e6.chunk.js.map",
+    "main.css": "/monetizing/static/css/main.e178f280.chunk.css",
+    "main.js": "/monetizing/static/js/main.377c6d0c.chunk.js",
+    "main.js.map": "/monetizing/static/js/main.377c6d0c.chunk.js.map",
     "runtime-main.js": "/monetizing/static/js/runtime-main.67a344a9.js",
     "runtime-main.js.map": "/monetizing/static/js/runtime-main.67a344a9.js.map",
     "static/css/2.17e5ed98.chunk.css": "/monetizing/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.7ad2792e.chunk.js": "/monetizing/static/js/2.7ad2792e.chunk.js",
-    "static/js/2.7ad2792e.chunk.js.map": "/monetizing/static/js/2.7ad2792e.chunk.js.map",
+    "static/js/2.f53a0c8d.chunk.js": "/monetizing/static/js/2.f53a0c8d.chunk.js",
+    "static/js/2.f53a0c8d.chunk.js.map": "/monetizing/static/js/2.f53a0c8d.chunk.js.map",
     "index.html": "/monetizing/index.html",
-    "precache-manifest.98ea91ca7f867aa3228c85a5a78334fa.js": "/monetizing/precache-manifest.98ea91ca7f867aa3228c85a5a78334fa.js",
+    "precache-manifest.0dee4440c1a91a224b4019d5682cdcfe.js": "/monetizing/precache-manifest.0dee4440c1a91a224b4019d5682cdcfe.js",
     "service-worker.js": "/monetizing/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/monetizing/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.83f556cc.chunk.css.map": "/monetizing/static/css/main.83f556cc.chunk.css.map",
-    "static/media/Money.png": "/monetizing/static/media/Money.b96a839f.png",
-    "static/media/Parceiros.png": "/monetizing/static/media/Parceiros.1c65b698.png",
+    "static/css/main.e178f280.chunk.css.map": "/monetizing/static/css/main.e178f280.chunk.css.map",
+    "static/media/Money.png": "/monetizing/static/media/Money.ec56bc02.png",
+    "static/media/Parceiros.png": "/monetizing/static/media/Parceiros.1dc45e3d.png",
     "static/media/Publico - Infantil.png": "/monetizing/static/media/Publico - Infantil.ef7f486c.png",
     "static/media/banner.png": "/monetizing/static/media/banner.055efe0a.png",
     "static/media/Menu.css": "/monetizing/static/media/bg_pattern.7d024c19.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.67a344a9.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.7ad2792e.chunk.js",
-    "static/css/main.83f556cc.chunk.css",
-    "static/js/main.52f9a1e6.chunk.js"
+    "static/js/2.f53a0c8d.chunk.js",
+    "static/css/main.e178f280.chunk.css",
+    "static/js/main.377c6d0c.chunk.js"
   ]
 }
