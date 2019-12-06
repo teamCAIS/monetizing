@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ebd70802b7d1964db4a48285ed10688",
+    "revision": "f0adda57ff04bab5b3e571772eac5267",
     "url": "/monetizing/index.html"
   },
   {
-    "revision": "8426f43d6ef2c2051798",
+    "revision": "127cbc4702b696872390",
     "url": "/monetizing/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "211c7703f4fbe0834aa3",
-    "url": "/monetizing/static/css/main.c3dcc947.chunk.css"
+    "revision": "3872091bb3074f19af48",
+    "url": "/monetizing/static/css/main.60287e0e.chunk.css"
   },
   {
-    "revision": "8426f43d6ef2c2051798",
-    "url": "/monetizing/static/js/2.811859ca.chunk.js"
+    "revision": "127cbc4702b696872390",
+    "url": "/monetizing/static/js/2.063796dc.chunk.js"
   },
   {
-    "revision": "211c7703f4fbe0834aa3",
-    "url": "/monetizing/static/js/main.6ecdddf4.chunk.js"
+    "revision": "3872091bb3074f19af48",
+    "url": "/monetizing/static/js/main.1f249dc6.chunk.js"
   },
   {
     "revision": "b3fe32893a74a7bcfb7b",
@@ -56,12 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monetizing/static/media/bg.00f81f48.png"
   },
   {
-    "revision": "15b54c3210f83b3a7549050fdc764e1e",
-    "url": "/monetizing/static/media/botao_pause.15b54c32.svg"
+    "revision": "72eeb455be3201e2bcf3ae4568418a03",
+    "url": "/monetizing/static/media/bota_avanca_ativo.72eeb455.svg"
   },
   {
-    "revision": "2019afbce04a732f6c1584c65644f5ad",
-    "url": "/monetizing/static/media/botao_voltar_proximo.2019afbc.svg"
+    "revision": "fbe66671c7bf086308cc1109c0df8f66",
+    "url": "/monetizing/static/media/botao_avanca.fbe66671.svg"
+  },
+  {
+    "revision": "15b54c3210f83b3a7549050fdc764e1e",
+    "url": "/monetizing/static/media/botao_pause.15b54c32.svg"
   },
   {
     "revision": "e44ebc92022ce486f29ee11f9ad2f0b9",
