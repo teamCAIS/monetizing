@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39a1a9e8668d95443967c822314f310f",
+    "revision": "61396a68890d8d094334063a20361084",
     "url": "/monetizing/index.html"
   },
   {
-    "revision": "8f5be7718784f18e7bc8",
+    "revision": "2f946a97bdb5d7b2d5e4",
     "url": "/monetizing/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "5b7d3f3fe35524ac7821",
+    "revision": "fcd23f87a10cc984bd9a",
     "url": "/monetizing/static/css/main.fbb9cb6a.chunk.css"
   },
   {
-    "revision": "8f5be7718784f18e7bc8",
-    "url": "/monetizing/static/js/2.e1023d6f.chunk.js"
+    "revision": "2f946a97bdb5d7b2d5e4",
+    "url": "/monetizing/static/js/2.0b75ba84.chunk.js"
   },
   {
-    "revision": "5b7d3f3fe35524ac7821",
-    "url": "/monetizing/static/js/main.dd4ab300.chunk.js"
+    "revision": "fcd23f87a10cc984bd9a",
+    "url": "/monetizing/static/js/main.f99600ab.chunk.js"
   },
   {
     "revision": "b3fe32893a74a7bcfb7b",
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monetizing/static/media/botao_pause.15b54c32.svg"
   },
   {
-    "revision": "64f9b09283aac7e005d8be8d2bd05b75",
-    "url": "/monetizing/static/media/botao_play_redondo.64f9b092.svg"
-  },
-  {
     "revision": "2019afbce04a732f6c1584c65644f5ad",
     "url": "/monetizing/static/media/botao_voltar_proximo.2019afbc.svg"
   },
   {
     "revision": "e44ebc92022ce486f29ee11f9ad2f0b9",
     "url": "/monetizing/static/media/facebook_icon.e44ebc92.svg"
+  },
+  {
+    "revision": "836bbac7d60757bef090b10dab1e131b",
+    "url": "/monetizing/static/media/play_inicio.836bbac7.svg"
   },
   {
     "revision": "c6ecf4e95ae616749a85f7b0c767133f",

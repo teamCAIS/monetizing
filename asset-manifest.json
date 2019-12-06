@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/monetizing/static/css/main.fbb9cb6a.chunk.css",
-    "main.js": "/monetizing/static/js/main.dd4ab300.chunk.js",
-    "main.js.map": "/monetizing/static/js/main.dd4ab300.chunk.js.map",
+    "main.js": "/monetizing/static/js/main.f99600ab.chunk.js",
+    "main.js.map": "/monetizing/static/js/main.f99600ab.chunk.js.map",
     "runtime-main.js": "/monetizing/static/js/runtime-main.67a344a9.js",
     "runtime-main.js.map": "/monetizing/static/js/runtime-main.67a344a9.js.map",
     "static/css/2.17e5ed98.chunk.css": "/monetizing/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.e1023d6f.chunk.js": "/monetizing/static/js/2.e1023d6f.chunk.js",
-    "static/js/2.e1023d6f.chunk.js.map": "/monetizing/static/js/2.e1023d6f.chunk.js.map",
+    "static/js/2.0b75ba84.chunk.js": "/monetizing/static/js/2.0b75ba84.chunk.js",
+    "static/js/2.0b75ba84.chunk.js.map": "/monetizing/static/js/2.0b75ba84.chunk.js.map",
     "index.html": "/monetizing/index.html",
-    "precache-manifest.d2799233ef3c356c5aa434fcf92cf170.js": "/monetizing/precache-manifest.d2799233ef3c356c5aa434fcf92cf170.js",
+    "precache-manifest.2d664db2d7283e78abe20203eb4ec9eb.js": "/monetizing/precache-manifest.2d664db2d7283e78abe20203eb4ec9eb.js",
     "service-worker.js": "/monetizing/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/monetizing/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.fbb9cb6a.chunk.css.map": "/monetizing/static/css/main.fbb9cb6a.chunk.css.map",
@@ -23,17 +23,17 @@
     "static/media/banner.png": "/monetizing/static/media/banner.055efe0a.png",
     "static/media/Menu.css": "/monetizing/static/media/bg.00f81f48.png",
     "static/media/botao_pause.svg": "/monetizing/static/media/botao_pause.15b54c32.svg",
-    "static/media/botao_play_redondo.svg": "/monetizing/static/media/botao_play_redondo.64f9b092.svg",
     "static/media/botao_voltar_proximo.svg": "/monetizing/static/media/botao_voltar_proximo.2019afbc.svg",
     "static/media/facebook_icon.svg": "/monetizing/static/media/facebook_icon.e44ebc92.svg",
+    "static/media/play_inicio.svg": "/monetizing/static/media/play_inicio.836bbac7.svg",
     "static/media/twitch_icon.svg": "/monetizing/static/media/twitch_icon.c6ecf4e9.svg",
     "static/media/youtube_icon.svg": "/monetizing/static/media/youtube_icon.8517fe30.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.67a344a9.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.e1023d6f.chunk.js",
+    "static/js/2.0b75ba84.chunk.js",
     "static/css/main.fbb9cb6a.chunk.css",
-    "static/js/main.dd4ab300.chunk.js"
+    "static/js/main.f99600ab.chunk.js"
   ]
 }
