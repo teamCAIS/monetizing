@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/monetizing/static/css/main.3290519a.chunk.css",
-    "main.js": "/monetizing/static/js/main.10c38641.chunk.js",
-    "main.js.map": "/monetizing/static/js/main.10c38641.chunk.js.map",
+    "main.css": "/monetizing/static/css/main.fbb9cb6a.chunk.css",
+    "main.js": "/monetizing/static/js/main.dd4ab300.chunk.js",
+    "main.js.map": "/monetizing/static/js/main.dd4ab300.chunk.js.map",
     "runtime-main.js": "/monetizing/static/js/runtime-main.67a344a9.js",
     "runtime-main.js.map": "/monetizing/static/js/runtime-main.67a344a9.js.map",
     "static/css/2.17e5ed98.chunk.css": "/monetizing/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.0541381b.chunk.js": "/monetizing/static/js/2.0541381b.chunk.js",
-    "static/js/2.0541381b.chunk.js.map": "/monetizing/static/js/2.0541381b.chunk.js.map",
+    "static/js/2.e1023d6f.chunk.js": "/monetizing/static/js/2.e1023d6f.chunk.js",
+    "static/js/2.e1023d6f.chunk.js.map": "/monetizing/static/js/2.e1023d6f.chunk.js.map",
     "index.html": "/monetizing/index.html",
-    "precache-manifest.a6720f1a47e35fb1ce6e3109167cac8c.js": "/monetizing/precache-manifest.a6720f1a47e35fb1ce6e3109167cac8c.js",
+    "precache-manifest.d2799233ef3c356c5aa434fcf92cf170.js": "/monetizing/precache-manifest.d2799233ef3c356c5aa434fcf92cf170.js",
     "service-worker.js": "/monetizing/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/monetizing/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.3290519a.chunk.css.map": "/monetizing/static/css/main.3290519a.chunk.css.map",
+    "static/css/main.fbb9cb6a.chunk.css.map": "/monetizing/static/css/main.fbb9cb6a.chunk.css.map",
     "static/media/Capa FB.png": "/monetizing/static/media/Capa FB.af4034cb.png",
     "static/media/Capa TW.png": "/monetizing/static/media/Capa TW.aab2416b.png",
     "static/media/Capa YT.png": "/monetizing/static/media/Capa YT.5584f9f6.png",
     "static/media/Money.png": "/monetizing/static/media/Money.ec56bc02.png",
     "static/media/Parceiros.png": "/monetizing/static/media/Parceiros.1dc45e3d.png",
     "static/media/Publico - Infantil.png": "/monetizing/static/media/Publico - Infantil.ef7f486c.png",
+    "static/media/Publico - Jovem v3.png": "/monetizing/static/media/Publico - Jovem v3.10f2a623.png",
     "static/media/banner.png": "/monetizing/static/media/banner.055efe0a.png",
     "static/media/Menu.css": "/monetizing/static/media/bg.00f81f48.png",
     "static/media/botao_pause.svg": "/monetizing/static/media/botao_pause.15b54c32.svg",
@@ -31,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.67a344a9.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.0541381b.chunk.js",
-    "static/css/main.3290519a.chunk.css",
-    "static/js/main.10c38641.chunk.js"
+    "static/js/2.e1023d6f.chunk.js",
+    "static/css/main.fbb9cb6a.chunk.css",
+    "static/js/main.dd4ab300.chunk.js"
   ]
 }
