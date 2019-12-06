@@ -1,51 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73347a23f52b8e33a0889b6a649a0471",
+    "revision": "0d1c6114dc17f704b4bc987124370ca0",
     "url": "/monetizing/index.html"
   },
   {
-    "revision": "0178830a652e7089a9dd",
+    "revision": "f14b7a6cd8839af322a9",
     "url": "/monetizing/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "c2c5c437acac33729e44",
-    "url": "/monetizing/static/css/main.c9f7c78b.chunk.css"
+    "revision": "e6e944be96c8761d5890",
+    "url": "/monetizing/static/css/main.3290519a.chunk.css"
   },
   {
-    "revision": "0178830a652e7089a9dd",
-    "url": "/monetizing/static/js/2.a45410f0.chunk.js"
+    "revision": "f14b7a6cd8839af322a9",
+    "url": "/monetizing/static/js/2.0541381b.chunk.js"
   },
   {
-    "revision": "c2c5c437acac33729e44",
-    "url": "/monetizing/static/js/main.13e0a1ec.chunk.js"
+    "revision": "e6e944be96c8761d5890",
+    "url": "/monetizing/static/js/main.10c38641.chunk.js"
   },
   {
     "revision": "b3fe32893a74a7bcfb7b",
     "url": "/monetizing/static/js/runtime-main.67a344a9.js"
-  },
-  {
-    "revision": "f5f17c9d0e966d783ae5f46d0d48bd37",
-    "url": "/monetizing/static/media/BG01.f5f17c9d.jpg"
-  },
-  {
-    "revision": "88b56dc2dc6aded2b64fdcbb5188a561",
-    "url": "/monetizing/static/media/BG02.88b56dc2.jpg"
-  },
-  {
-    "revision": "f13a4789ace7ea520e140a9873acf92b",
-    "url": "/monetizing/static/media/BG03.f13a4789.jpg"
-  },
-  {
-    "revision": "02d57f3baa9c9deb6170c800a2bbeb9e",
-    "url": "/monetizing/static/media/BG04.02d57f3b.jpg"
-  },
-  {
-    "revision": "eff5113c7662fb3b2083ce57e5d03c12",
-    "url": "/monetizing/static/media/BG05.eff5113c.jpg"
-  },
-  {
-    "revision": "d04275a536dccdc7cf5d300fd783599f",
-    "url": "/monetizing/static/media/BG06.d04275a5.jpg"
   },
   {
     "revision": "af4034cb9a17aa93c3a3c20217b7711d",
@@ -76,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monetizing/static/media/banner.055efe0a.png"
   },
   {
+    "revision": "00f81f48d7fefaa3eba046c2e9176036",
+    "url": "/monetizing/static/media/bg.00f81f48.png"
+  },
+  {
     "revision": "15b54c3210f83b3a7549050fdc764e1e",
     "url": "/monetizing/static/media/botao_pause.15b54c32.svg"
   },
@@ -92,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monetizing/static/media/facebook_icon.e44ebc92.svg"
   },
   {
-    "revision": "446789c777fe087503ac35575785e785",
-    "url": "/monetizing/static/media/twitch_icon.446789c7.svg"
+    "revision": "c6ecf4e95ae616749a85f7b0c767133f",
+    "url": "/monetizing/static/media/twitch_icon.c6ecf4e9.svg"
   },
   {
     "revision": "8517fe30199e16be57b2998bebb2140c",
