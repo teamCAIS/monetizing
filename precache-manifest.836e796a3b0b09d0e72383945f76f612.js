@@ -1,27 +1,63 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b4ee673efb63bafd1f8dd3210e7f670",
+    "revision": "73347a23f52b8e33a0889b6a649a0471",
     "url": "/monetizing/index.html"
   },
   {
-    "revision": "5cb9217aa448161b1272",
+    "revision": "0178830a652e7089a9dd",
     "url": "/monetizing/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "2d62f97fdaa7581de783",
-    "url": "/monetizing/static/css/main.e178f280.chunk.css"
+    "revision": "c2c5c437acac33729e44",
+    "url": "/monetizing/static/css/main.c9f7c78b.chunk.css"
   },
   {
-    "revision": "5cb9217aa448161b1272",
-    "url": "/monetizing/static/js/2.381c1fe1.chunk.js"
+    "revision": "0178830a652e7089a9dd",
+    "url": "/monetizing/static/js/2.a45410f0.chunk.js"
   },
   {
-    "revision": "2d62f97fdaa7581de783",
-    "url": "/monetizing/static/js/main.ea8d1f3b.chunk.js"
+    "revision": "c2c5c437acac33729e44",
+    "url": "/monetizing/static/js/main.13e0a1ec.chunk.js"
   },
   {
     "revision": "b3fe32893a74a7bcfb7b",
     "url": "/monetizing/static/js/runtime-main.67a344a9.js"
+  },
+  {
+    "revision": "f5f17c9d0e966d783ae5f46d0d48bd37",
+    "url": "/monetizing/static/media/BG01.f5f17c9d.jpg"
+  },
+  {
+    "revision": "88b56dc2dc6aded2b64fdcbb5188a561",
+    "url": "/monetizing/static/media/BG02.88b56dc2.jpg"
+  },
+  {
+    "revision": "f13a4789ace7ea520e140a9873acf92b",
+    "url": "/monetizing/static/media/BG03.f13a4789.jpg"
+  },
+  {
+    "revision": "02d57f3baa9c9deb6170c800a2bbeb9e",
+    "url": "/monetizing/static/media/BG04.02d57f3b.jpg"
+  },
+  {
+    "revision": "eff5113c7662fb3b2083ce57e5d03c12",
+    "url": "/monetizing/static/media/BG05.eff5113c.jpg"
+  },
+  {
+    "revision": "d04275a536dccdc7cf5d300fd783599f",
+    "url": "/monetizing/static/media/BG06.d04275a5.jpg"
+  },
+  {
+    "revision": "af4034cb9a17aa93c3a3c20217b7711d",
+    "url": "/monetizing/static/media/Capa FB.af4034cb.png"
+  },
+  {
+    "revision": "aab2416b2d9fbb98c587258cef963689",
+    "url": "/monetizing/static/media/Capa TW.aab2416b.png"
+  },
+  {
+    "revision": "5584f9f6eb6ef4de5ec8bd2c09ca1c58",
+    "url": "/monetizing/static/media/Capa YT.5584f9f6.png"
   },
   {
     "revision": "ec56bc0234d9bfbcb17ca6b658a58fad",
@@ -38,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "055efe0a20fa89523b4e19f259d8cc5c",
     "url": "/monetizing/static/media/banner.055efe0a.png"
-  },
-  {
-    "revision": "7d024c19a9032fa2d1f54a59d4f5d792",
-    "url": "/monetizing/static/media/bg_pattern.7d024c19.png"
   },
   {
     "revision": "15b54c3210f83b3a7549050fdc764e1e",
